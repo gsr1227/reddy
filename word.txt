@@ -1,4 +1,46 @@
-fsbgl,fmnbvghjk, 
-fdsgnbj
-gjgkjerepjrriutjgjrjjrgmrgjr
-,gnrgn nkrj krjgg
+Samsumng Mobile acct:9581382554@gsr
+
+
+
+
+AWS
+pradeepcnp1234@gmail.com
+
+
+user:gsri1227@gmail.com
+Pass:Gsr.12345
+
+AWS Services:
+
+1)IAM
+2)EC2
+3)VPC
+4)S3
+5)RDS
+6)Beanstalk
+7)Cloudwatch
+8)Route53
+
+
+1)IAM
+
+----------->User Create Url:
+
+setting MFA:
+
+https://920685158021.signin.aws.amazon.com/console
+
+2)EC2:
+
+
+first create instances
+after create instances downloading putty to connect ec2 instances
+ 1) open putty gen 
+  load  key pair
+2)after saving key pair, 
+to save private key,open putty 
+ 3)  Host name or IP address: IPv4 Public IP 18.219.184.224,  After ip address entered open connections , ssh,Auth to load private key
+
+4)user name: ec2-user
+
+
